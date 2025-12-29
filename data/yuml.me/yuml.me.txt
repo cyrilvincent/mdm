@@ -1,0 +1,7 @@
+// Sweet Class Diagram
+// -------------------
+
+[Customer|forname: string;surname: string;password: string]
+
+// Chain elements like this
+[Customer]-orders*>[Order]-0..*>[LineItem]
