@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/chaozhuang/dielectric-breakdown-prediction-dataset
+https://www.kaggle.com/code/swandipsingha/semiconductor/notebook
